@@ -3,3 +3,4 @@ This includes:
 - Player movement
 - The AXI-Shot, the central mechanic
 - Stage mechanics
+- Camera control
